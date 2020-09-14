@@ -1,4 +1,4 @@
-# PTSD-Application
+# PTSD-Visualization
 
 Three formats of files are provided for the visualization of PTSD shape analysis results.
 
