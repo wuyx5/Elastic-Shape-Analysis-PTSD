@@ -1,4 +1,4 @@
-Three visualization applications show the subcortical shape changes along different Principal Components, PTSD Symptom Scales and Traumatic Experience Inventory as Adult separately.
+Three visualization applications show the subcortical shape changes along different Principal Components, PTSD Symptom Scales and Childhood Trauma Questionnaire Total Score separately.
 
 The visualization applications can be installed and opened with MATLAB Runtime Compiler R2020a (9.8) installed. The applications will also automatically download and install MATLAB Runtime if it is not previously installed.
 
