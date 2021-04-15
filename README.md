@@ -1,6 +1,6 @@
 # PTSD-Visualization
 
-Main codes to run the pipeline of elastic shape analysis and build regression models are shared in [Codes].
+Main codes to run the pipeline of elastic shape analysis and build regression models are shared in [Paper code].
 
 Supplementary materials to the paper are included in [Supplementary Materials].
 
