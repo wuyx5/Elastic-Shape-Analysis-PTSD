@@ -2,7 +2,7 @@
 
 Main codes to run the pipeline of elastic shape analysis and build regression models are shared in [Paper code folder](https://github.com/wuyx5/Elastic-Shape-Analysis-PTSD/tree/master/Paper%20code).
 
-Supplementary materials (GIFs) to the paper are included in [Supplementary Materials folder](https://github.com/wuyx5/Elastic-Shape-Analysis-PTSD/tree/master/Supplementary%20Materials). <\strong> Due to file size limitation, interactive MATLAB figures are shared in [Dropbox](https://www.dropbox.com/sh/1sa45k5do61koet/AACuZMTQtPmxpMNHkJv8ZUCSa?dl=0). Please download the whole Supplementary Materials folder in Dropbox and play the interactive MATLAB figures. <strong>
+Supplementary materials (GIFs) to the paper are included in [Supplementary Materials folder](https://github.com/wuyx5/Elastic-Shape-Analysis-PTSD/tree/master/Supplementary%20Materials). <strong> Due to file size limitation, interactive MATLAB figures are shared in [Dropbox](https://www.dropbox.com/sh/1sa45k5do61koet/AACuZMTQtPmxpMNHkJv8ZUCSa?dl=0). Please download the whole Supplementary Materials folder in Dropbox and play the interactive MATLAB figures. </strong>
 
 Other three formats of files are provided for the visualization of PTSD shape analysis results: 
 
