@@ -5,4 +5,4 @@
 3. "pss_\*\.gif" shows the shape deformation of three subcortical structures along with different PTSD symptom scales separately.
 4. "ctqtot_\*\.gif" shows the shape deformation of three subcortical structures along with different childhood trauma questionnaire total scores separately.
 
-** Due to file size limitation, interactive MATLAB figures are shared in [Dropbox](https://www.dropbox.com/sh/1sa45k5do61koet/AACuZMTQtPmxpMNHkJv8ZUCSa?dl=0). Please download the whole Supplementary Materials folder in Dropbox and play the interactive MATLAB figures. **
+<strong> Due to file size limitation, interactive MATLAB figures are shared in [Dropbox](https://www.dropbox.com/sh/1sa45k5do61koet/AACuZMTQtPmxpMNHkJv8ZUCSa?dl=0). Please download the whole Supplementary Materials folder in Dropbox and play the interactive MATLAB figures. </strong>
